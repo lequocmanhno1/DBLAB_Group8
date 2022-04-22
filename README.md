@@ -1,2 +1,2 @@
-# DBLAB_Group8
+# Hotel Management
 Project Database LAB
